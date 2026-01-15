@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "enough-thinking"
+version = "0.0.1"
+description = "Efficient Reasoning via RL-Driven Self-Adaptation (Colab-scale)"
+requires-python = ">=3.9"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

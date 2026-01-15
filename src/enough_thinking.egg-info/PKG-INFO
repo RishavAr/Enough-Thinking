@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: enough-thinking
+Version: 0.0.1
+Summary: Efficient Reasoning via RL-Driven Self-Adaptation (Colab-scale)
+Requires-Python: >=3.9
