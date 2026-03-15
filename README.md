@@ -244,7 +244,7 @@ This project shows that:
 * Reasoning efficiency can be optimized explicitly
 * Self-adaptation is a viable alternative to distillation
 * Tool-augmented agents benefit from efficient reasoning
-
+z
 ---
 
 ## 11. Limitations & Future Work
