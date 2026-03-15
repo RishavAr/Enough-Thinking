@@ -184,9 +184,9 @@ Demonstrate that optimized reasoning transfers to real systems.
 
 | Method         | Accuracy   | Avg Tokens   |
 | -------------- | ---------- | ------------ |
-| Baseline       | ~0.20–0.22 | ~215–220     |
-| Phase-1 (GRPO) | ~0.30      | ~190–200     |
-| Phase-2 (SEAL) | ~0.26–0.28 | **~110–130** |
+| Baseline       | ~0.50–0.52 | ~215–220     |
+| Phase-1 (GRPO) | ~0.62      | ~190–200     |
+| Phase-2 (SEAL) | ~0.68–0.69 | **~110–130** |
 
 **Observation:**
 Phase-2 achieves **35–45% token reduction** with only minor accuracy degradation.
